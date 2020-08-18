@@ -1,0 +1,35 @@
+- - - - - - - - lesson 06 - - - - - - - -
+- - - - - - - - ex003 & ex004 - - - - - -
+04 tipos primitivos mais básicos:
+1) int = inteiros (positivo, negativo ou nulo)
+ex.: 7, -4, 0 , 9875
+2) float = Números reais ou números flutuantes
+ex.: 4.5, 0.076 -15.223 7.0
+3) bool = Valores lógicos ou boleanos
+ex.: True False
+4) str = Valores caracteres ou string
+ex.: 'Olá' '7.5' ''
+
+print(type(n)) = tipo primitivo
+print(n.is) = tipos de strings
+
+- - - - - - - - lesson 07 - - - - - - - -
+Operadores Aritméticos
+- - - - - - - - ex005 & ex015 - - - - - -
+Ordem Aritimética
+1) ()
+2) ** our pow(3,2)
+3) * | / | // | %
+4) + | -
+
+raiz quadrada = 81**(1/2)
+
+- - - - - - - - lesson 08 - - - - - - - -
+Utilizando Módulos
+- - - - - - - - ex016 & ex015 - - - - - -
+
+
+style 0 | negrito 1  | sublinhado 4  | inverter as conficurações 7
+text: white 30 | red 31 | green 32 | yellow 33 | blue 34 | magenta 35 | sian 36 | gray 37
+back: white 40 | red 41 | green 42 | yellow 43 | blue 44 | magenta 45 | sian 46 | gray 47
+

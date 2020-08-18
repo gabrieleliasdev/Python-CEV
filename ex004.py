@@ -1,0 +1,5 @@
+print('Type a value to see it in "four primitive types"\n')
+n = input('>>> ')
+print('\nWhat kind of string {}\n'.format(type(n)))
+print('Whether it can be transformed >>> Alpha:{} | Numeric:{} | Upper:{} | Title:{}\n'.format(n.isalpha(), n.isnumeric(), n.isupper(), n.istitle()))
+print('Four primitive types >>> int:{} | float:{} | bool:{} | str:{}\n'.format(int(n),float(n),bool(n),str(n)))
