@@ -1,4 +1,4 @@
-Sumário do Curso de Python
+# python-cev
 Curso em Vídeo (Prof. Gustavo Guanabara)
 
 __*» Tratando dados e fazendo contas*__
